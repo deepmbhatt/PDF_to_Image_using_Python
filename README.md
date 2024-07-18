@@ -9,7 +9,7 @@ Converts PDF pages into downloadable images or a ZIP archive using Streamlit and
 ## **Installation**
 ### Clone the repository:
 
-    git clone https://github.com/your-username/pdf-to-image-converter.git](https://github.com/deepmbhatt/PDF_to_Image_using_Python.git
+    git clone https://github.com/deepmbhatt/PDF_to_Image_using_Python.git
 
 ### Install dependencies:
 
